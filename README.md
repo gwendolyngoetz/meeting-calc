@@ -1,6 +1,13 @@
 # meeting-calc
 
-use dotnet 7.0.100.
+## Pre-reqs
+
+Use dotnet 7.0.100.
+
+- Create Azure AD app registration 
+- Use settings:
+  - ![image](https://github.com/gwendolyngoetz/meeting-calc/assets/195162/42e7e8d8-d8ef-413e-9701-4b484c3cb2c5)
+- [Export wage data CSV from open data](https://data.seattle.gov/City-Business/City-of-Seattle-Wage-Data/2khk-5ukd)
 
 ## Run
 
