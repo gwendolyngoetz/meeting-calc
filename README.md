@@ -1,5 +1,7 @@
 # meeting-calc
 
+This is a couldn't sleep so lets hack something silly together in a few hours thing.
+
 ## Pre-reqs
 
 Use dotnet 7.0.100.
@@ -40,3 +42,8 @@ Nestor Wilke	$77.84
 
 Meeting 1 (60) Estimated meeting cost: $264.13
 ```
+
+## Notes
+
+- Matching on DisplayName is fragile if your environment doesn't have a consistent naming format.
+- Only pulls defaults for meetings for the specified user in the Config.cs.
