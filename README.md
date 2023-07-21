@@ -4,8 +4,7 @@ This is a couldn't sleep so lets hack something silly together in a few hours th
 
 ## Pre-reqs
 
-Use dotnet 7.0.100.
-
+- Use dotnet 7.0.100.
 - Create Azure AD app registration 
 - Use settings:
   - ![image](https://github.com/gwendolyngoetz/meeting-calc/assets/195162/42e7e8d8-d8ef-413e-9701-4b484c3cb2c5)
